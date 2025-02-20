@@ -39,42 +39,42 @@ Inicie o servidor
 ```http
   GET localhost:3001/users
 ```
-<img src="https://github.com/nivaldoguedes/DespesasResidenciais/blob/main/get.png">
+<img src="printTests/getUser.png">
 
 #### Rota para acrescentar um novo membro na residência
 
 ```http
   POST localhost:3001/user
 ```
-<img src="https://github.com/nivaldoguedes/DespesasResidenciais/blob/main/post.png">
+<img src="printTests/postUser.png">
 
 #### Rota para deleção de algum usuário
 
 ```http
   DEL localhost:3001/user/:id
 ```
-<img src="https://github.com/nivaldoguedes/DespesasResidenciais/blob/main/delUser.png">
+<img src="printTests/delUser.png">
 
 #### Rota de requisição e listagem das transações cadastradas
 
 ```http
   GET localhost:3001/transactions
 ```
-<img src="https://github.com/nivaldoguedes/DespesasResidenciais/blob/main/getTransaction.png">
+<img src="printTests/getTransactions.png">
 
 #### Rota para inserção de transações
 
 ```http
   POST localhost:3001/transaction
 ```
-<img src="https://github.com/nivaldoguedes/DespesasResidenciais/blob/main/postTransaction.png">
+<img src="printTests/postTransaction.png">
 
 #### Rota de requisição e listagem dos totais individuais e coletivo
 
 ```http
   GET localhost:3001/total
 ```
-<img src="https://github.com/nivaldoguedes/DespesasResidenciais/blob/main/getTotal.png">
+<img src="printTests/getTotal.png">
 
 ## 🛠 Habilidades
 TypeScript e Postman
