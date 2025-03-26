@@ -18,7 +18,7 @@ Facilitar o monitoramento das transações individuais e coletivas de membros de
 Entre no diretório do projeto
 
 ```bash
-  cd DespesasResidenciais/server
+  cd DespesasResidenciaisTS/server
 ```
 
 Instale as dependências
