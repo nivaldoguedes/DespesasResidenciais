@@ -93,7 +93,7 @@ Eu sou um estudante de engenharia da computação na UNIVASF - Universidade Fede
 
 🧠 Estou aprendendo desenvolvimento back-end
 
-📫 Como entrar em comigo: guedes.nivaldo@gmail.com
+📫 Como entrar em contato comigo: guedes.nivaldo@gmail.com
 
 😄 Pronomes: ele/dele
 ## Feedback
